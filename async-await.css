@@ -1,0 +1,23 @@
+.fordisplay{
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: 500px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 50px;
+    padding-top: 10px;
+
+}
+
+h1{
+    text-align: center;
+    /* position: fixed; */
+    /* padding-top: 0px; */
+}
+
+button{
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: aqua;
+}
